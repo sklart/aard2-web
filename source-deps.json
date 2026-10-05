@@ -1,14 +1,14 @@
 [
   {
     "name": "slobj",
-    "repo": "git@github.com:itkach/slobj.git",
-    "sha": "941e817e4edb031149a1fb375d60cfa8a5681b52",
+    "repo": "https://github.com/sklart/slobj.git",
+    "sha": "b4377dc3df98998596e40659b6acfc3adefe59fe",
     "describe": "0.13"
   },
   {
     "name": "slobber",
-    "repo": "git@github.com:itkach/slobber.git",
-    "sha": "8735093403736557a1c0447d5ec53a670f89242c",
+    "repo": "https://github.com/sklart/slobber.git",
+    "sha": "cd6a1ea7f045a8576fbe529b459ba2fea537e3fb",
     "describe": "0.12"
   }
 ]
